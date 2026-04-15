@@ -1,0 +1,5 @@
+yfinance~=1.2.1
+pandas~=3.0.2
+python-dateutil~=2.9.0.post0
+pyodbc~=5.3.0
+SQLAlchemy~=2.0.49
